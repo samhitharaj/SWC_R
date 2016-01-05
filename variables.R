@@ -1,6 +1,7 @@
 
 dist10<- rnorm(10)
 # This is the document where I learn introductory R.
+#January 5th 
 x==1
 mass <- 47.5
 age <- 122
