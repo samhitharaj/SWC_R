@@ -1,3 +1,5 @@
+
+dist10<- rnorm(10)
 # This is the document where I learn introductory R.
 x==1
 mass <- 47.5
